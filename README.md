@@ -2,4 +2,4 @@
 
 ##### Hehe
 
-![Mining Frame](/miningFrame.png)
+![Mining Frame](/miningFrame.PNG)
